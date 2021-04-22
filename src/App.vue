@@ -8,7 +8,7 @@
 
 							<!-- Header -->
 								<header id="header" class="notranslate">
-									<a href="index.html" class="logo "><strong>Quinta Das Novas Estrelas #starbase18</strong></a>
+									<a href="index.html" class="logo "><strong>Starbase18, a circular mini-village for and by students in Portugal</strong></a>
 									<ul class="icons">
 										<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>-->
 										<li><a href="https://www.facebook.com/starbase18" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>

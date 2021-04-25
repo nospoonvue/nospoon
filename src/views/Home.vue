@@ -30,11 +30,11 @@ export default
     },
     metaInfo() {
         return {
-            title: 'Starbase18 - ' + this.page,
+            title: 'noSpoon Media - ' + this.page,
             meta:[
                 {
-                    name: "Empowering students to thrive in a circular economy",
-                    content: "Building a circular mini vilage in central Portugal"
+                    name: "noSpoon Media",
+                    content: "Powerful educational solutions"
                 }
             ]
       }

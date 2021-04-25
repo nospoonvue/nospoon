@@ -4,8 +4,9 @@ import router from './router'
 import store from './store'
 
 Vue.config.productionTip = false
-Vue.prototype.$baseUrl = "https://script.google.com/macros/s/AKfycbx5GLrXhpdBh2avqiQLvHYSs5TmPTPbK_tAGu5zeUoL2GdJ3hKbsKLs/exec" //generic, application key required
-Vue.prototype.$application = "Starbase18"
+Vue.prototype.$baseUrl = "https://script.google.com/macros/s/AKfycbwkbQgdIamiJt9MxgsHNvuisEefcanzJhAFX5q5sGl3wpXVigU26xV1AuFmqbEpgLAp/exec"
+//Vue.prototype.$baseUrl = "https://script.google.com/macros/s/AKfycbx5GLrXhpdBh2avqiQLvHYSs5TmPTPbK_tAGu5zeUoL2GdJ3hKbsKLs/exec" //generic, application key required
+Vue.prototype.$application = "noSpoon"
 
 
 new Vue({

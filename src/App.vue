@@ -11,7 +11,7 @@
 									<a href="index.html" class="logo "><strong>noSpoon Media, education for the future</strong></a>
 									<ul class="icons">
 										<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>-->
-										<li><a href="https://www.facebook.com/nospoonmedia" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.facebook.com/nospooneducation" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 										<li><a href="https://www.linkedin.com/company/nospoonmedia/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>									
 										<li><a href="https://www.instagram.com/starbase18/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="https://www.youtube.com/channel/" target="_blank" class="icon brands fa-youtube"><span class="label">YouTube</span></a></li>
@@ -37,8 +37,8 @@
 					<div id="sidebar">
 						<div class="inner">
 							<div id="logo" style="width:100%;text-align:center">
-							<img src="images/SB18-logo.png" style="max-width:100px; ">
-							<div>Starbase18.com</div>
+							<img src="images/nospoon-logo.png" style="max-width:100px; ">
+							<div>noSpoon.nl</div>
 							</div>
 							
 							<!-- Search 

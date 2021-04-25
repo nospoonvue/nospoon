@@ -8,14 +8,13 @@
 
 							<!-- Header -->
 								<header id="header" class="notranslate">
-									<a href="index.html" class="logo "><strong>Starbase18, a circular mini-village for and by students in Portugal</strong></a>
+									<a href="index.html" class="logo "><strong>noSpoon Media, education for the future</strong></a>
 									<ul class="icons">
 										<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>-->
-										<li><a href="https://www.facebook.com/starbase18" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="https://www.linkedin.com/company/starbase18/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-										<li><a href="https://www.linkedin.com/groups/9025317/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+										<li><a href="https://www.facebook.com/nospoonmedia" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.linkedin.com/company/nospoonmedia/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>									
 										<li><a href="https://www.instagram.com/starbase18/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="https://www.youtube.com/channel/UCu6f7q7NqtuCD90VVVnhtMA" target="_blank" class="icon brands fa-youtube"><span class="label">YouTube</span></a></li>
+										<li><a href="https://www.youtube.com/channel/" target="_blank" class="icon brands fa-youtube"><span class="label">YouTube</span></a></li>
 										
 										<!-- <li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>		-->
                    						<li><nav id="nav"><router-link to="/login"><div id="un">{{loginLabel}}</div></router-link></nav></li>

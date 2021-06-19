@@ -8,7 +8,7 @@
 
 							<!-- Header -->
 								<header id="header" class="notranslate">
-									<a href="index.html" class="logo "><strong>noSpoon Media, education for the future</strong></a>
+									<a href="index.html" class="logo "><strong>noSpoon Media, education for the future...</strong></a>
 									<ul class="icons">
 										<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>-->
 										<li><a href="https://www.facebook.com/nospooneducation" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
